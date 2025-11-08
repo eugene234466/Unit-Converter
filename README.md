@@ -84,7 +84,7 @@ Example:
 👨‍💻 Author
 Eugene
 GitHub: @eugene234466
-LinkedIn: Your LinkedIn
+LinkedIn: https://www.linkedin.com/in/eugene-yarney
 📄 License
 This project is open source and available under the MIT License.
 🙏 Acknowledgments
